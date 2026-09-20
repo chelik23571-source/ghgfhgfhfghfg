@@ -1,6 +1,0 @@
-*.session
-*.session-journal
-nft_leads_bot.log
-__pycache__/
-.pytest_cache/
-*.sqlite3
